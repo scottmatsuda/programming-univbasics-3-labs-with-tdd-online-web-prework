@@ -1,9 +1,9 @@
 # Add your variables here
 
-first_number = 1
-second_number = 2
+int first_number = 1
+int second_number = 2
 
-sum = first_number + second_number
-subtraction = first_number - second_number
-product = first_number * second_number
-division = first_number / second_number
+var sum = first_number + second_number
+var subtraction = first_number - second_number
+var product = first_number * second_number
+var quotient = first_number / second_number
